@@ -1,0 +1,4 @@
+customer name: cghjk 
+ order details:[333]
+ for payment:4500
+Thank you for shopping with us!
